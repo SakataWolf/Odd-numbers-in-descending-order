@@ -1,0 +1,16 @@
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.exe
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.deps.json
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.runtimeconfig.json
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.runtimeconfig.dev.json
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.dll
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\ref\Numeros impares em Ordem decrescente.dll
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\bin\Debug\net5.0\Numeros impares em Ordem decrescente.pdb
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.csproj.AssemblyReference.cache
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.AssemblyInfoInputs.cache
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.AssemblyInfo.cs
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.dll
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\ref\Numeros impares em Ordem decrescente.dll
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.pdb
+D:\Etec\PA\Numeros impares em Ordem decrescente\Numeros impares em Ordem decrescente\obj\Debug\net5.0\Numeros impares em Ordem decrescente.genruntimeconfig.cache

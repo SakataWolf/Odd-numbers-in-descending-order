@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Numeros impares em Ordem decrescente/1.0.0": {
+        "runtime": {
+          "Numeros impares em Ordem decrescente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros impares em Ordem decrescente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
